@@ -8,7 +8,7 @@ Bienvenue sur le site officiel de **L’Atelier d’Audrey**, spécialiste en **
 
 ## 🌐 Site en ligne
 
-➡️ [Accéder au site L’Atelier d’Audrey](https://tonpseudo.github.io/latelier-daudrey/)  
+➡️ [Accéder au site L’Atelier d’Audrey](https://latelierdaudrey.github.io/latelier-daudrey/)  
 
 *(Remplace `tonpseudo` par ton identifiant GitHub.)*
 
